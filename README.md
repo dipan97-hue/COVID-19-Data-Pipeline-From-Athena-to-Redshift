@@ -1,4 +1,4 @@
-# Covid -19 ETL Pipeline from Athena to Redshift
+# Covid-19 ETL Pipeline from Athena to Redshift
 -----
 This repository contains a comprehensive data engineering project focused on COVID-19 data. Leveraging Amazon Web Services (AWS) tools such as Athena, Glue, S3, and Redshift, the project encompasses the entire data pipeline from querying raw COVID-19 data to building a relational data model in Redshift for analysis.
 -----
